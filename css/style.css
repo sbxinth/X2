@@ -1,0 +1,89 @@
+@import 'https://fonts.googleapis.com/css?family=Kanit|Prompt';
+
+body{
+    font-family:Prompt;
+}
+
+.topme{
+    color: #1b3e7c;
+    font-family:Prompt;
+}
+.registbut{
+    font-family:Prompt;
+    padding: 15px 25px;
+    /* font-size: 24px; */
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #1b3e7c;
+    border: none;
+    border-radius: 15px;
+    /* box-shadow: 0 9px #999; */
+  }
+  .registbut:hover {
+
+    transition-duration: 0.2s;
+      background-color: #22509e;
+      font-family:Prompt;
+    }
+
+  .registbut:active {
+    background-color: #000274;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+    font-family:Prompt;
+  }
+  .row{
+    font-family:Prompt;
+  }
+  .topbut{
+    font-family:Prompt;
+    padding: 15px 0 15px 0;
+    /* font-size: 24px; */
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    /* color: #fff;
+    background-color: #1b3e7c; */
+    border: none;
+    border-radius: 10px;
+    transition-duration: 0.2s;
+  }
+  .topbut:hover{
+    transition-duration: 0.2s;
+    background-color:whitesmoke;
+  }
+  .toppic{
+      font-size: 14pt;
+      padding-left: 10px;
+      color: #1b3e7c;
+      text-align: left;
+  }
+  .toppic:hover{
+      color: #2c62c0;
+  }
+  .detailtext{
+      font-size: 8pt;
+      margin-left: 10px;
+  }
+  .tbhead{
+      text-align:center;
+      color:white;
+      background-color:#1f63d8;
+      padding:10px 0 10px 0;
+      display: block;border:0px;
+  }
+  .ft{
+      background-color: #1b3e7c;
+      width: 100%;
+      height: 100px;
+  }
+  .txtw{
+      color: white;
+  }
+  a:visited{
+    color: #1b3e7c;
+  }
+
+  
